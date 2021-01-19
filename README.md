@@ -1,4 +1,5 @@
 ﻿# [Runmila AI Institute & minoHealth AI Labs Tuberculosis Classification via X-Rays Challenge](https://zindi.africa/competitions/runmila-ai-institute-minohealth-ai-labs-tuberculosis-classification-via-x-rays-challenge)
+ ## 11th Place
 
 ## Configuration
 - For the development of the CNN models, I used an AWS EC2 Instance, more precisely, p3.8xlarge.
